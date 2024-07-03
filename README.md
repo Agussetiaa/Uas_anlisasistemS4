@@ -1,5 +1,3 @@
-![image](https://github.com/Agussetiaa/Uas_anlisasistemS4/assets/115542822/a5d6f2a5-b95f-4ba8-bfcb-88751349badb)# Uas_anlisasistemS4
-
 ## Usecase
 
 ## Activity Diagram
