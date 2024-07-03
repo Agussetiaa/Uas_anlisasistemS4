@@ -1,5 +1,7 @@
 ## Usecase
 
+![image](https://github.com/Agussetiaa/Uas_anlisasistemS4/assets/115542822/4076237f-3e01-4d2a-a81d-1c0e234fdc97)
+
 ## Activity Diagram
 1. Activity Diagram Pendaftaran Penghuni
 
